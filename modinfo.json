@@ -1,0 +1,20 @@
+[
+
+	{
+	
+		"type": "MOD_INFO",
+		"id": "sil",
+		
+		"name": "SIL",
+		"description": "Adds SIL AKA Instant Legolas, which turns compound bows into repeaters with a five-arrow magazine.",
+		
+		"authors": [ "Hyperseeker" ],
+		"maintainers": [ "Hyperseeker" ],
+		
+		"category": "items",
+		
+		"dependencies": [ "dda" ]
+		
+	}
+	
+]

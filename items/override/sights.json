@@ -1,0 +1,75 @@
+[
+
+	{
+	
+		"id": "acog_scope",
+		"copy-from": "acog_scope",
+		"type": "GUNMOD",
+		
+		"name": { "str": "ACOG scope" },
+		
+		"mod_targets": [
+		
+			"rifle", 
+			"crossbow", 
+			"launcher",
+			
+			"compbow_sil",
+			"compbow_high_sil",
+			"compbow_low_sil"
+			
+		]
+	
+	},
+	
+	{
+	
+		"id": "red_dot_sight",
+		"copy-from": "red_dot_sight",
+		"type": "GUNMOD",
+		
+		"name": { "str": "red dot sight" },
+		
+		"mod_targets": [
+		
+			"smg", 
+			"rifle", 
+			"shotgun", 
+			"pistol", 
+			"crossbow", 
+			"launcher",
+			
+			"compbow_sil",
+			"compbow_high_sil",
+			"compbow_low_sil"
+			
+		]
+	
+	},
+	
+	{
+	
+		"id": "holo_sight",
+		"copy-from": "holo_sight",
+		"type": "GUNMOD",
+		
+		"name": { "str": "holographic sight" },
+		
+		"mod_targets": [
+		
+			"smg", 
+			"rifle", 
+			"shotgun", 
+			"crossbow", 
+			"pistol", 
+			"launcher",
+			
+			"compbow_sil",
+			"compbow_high_sil",
+			"compbow_low_sil"
+			
+		]
+	
+	}
+
+]

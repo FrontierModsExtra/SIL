@@ -1,0 +1,27 @@
+[
+
+	{
+	
+		"type": "GENERIC",
+		"category": "spare_parts",
+		
+		"id": "sil_original",
+		"name": { "str": "SIL" },
+		"description": "Also known as Instant Legolas. Sliding mechnism for feeding the compound bow from the attached magazine, allowing one to shoot up to five arrows in quick succession. Also features an ergonomic trigger handle, and a NATO Accessory Rail fitting for a sight.",
+		
+		"weight": "1400 g",
+		"//volume": "rough estimate from dimensions as stated on the Steambow Fenris entry; TODO: account for its actual shape more accurately",
+		"volume": "2756 ml",
+		"longest_side": "83 cm",
+		
+		"material": [ "aluminum" ],
+		
+		"symbol": ":",
+		"color": "dark_gray",
+		
+		"price": "1500 USD",
+		"price_postapoc": "200 USD"
+	
+	}
+
+]
