@@ -9,7 +9,7 @@ It does not add the SIL, or bows with it, to spawn. You must spawn it manually v
 
 ## What is the SIL
 
-The SIL is a five-arrow magazine for compound bows, allowing shooter to fire several arrows in quick succession. It is quiet to draw, and the nature of the SIL makes the bow require slightly less strength (−1 relative to in-game compound bow) to drwa. It also offers a sight rail for short- and medium-range firearm sights, thus noticably improving potential accuracy.
+The SIL is a five-arrow magazine for compound bows, allowing shooter to fire several arrows in quick succession. It is quiet to draw, and the nature of the SIL makes the bow require slightly less strength (−1 relative to in-game compound bow) to draw. It also offers a sight rail for short- and medium-range firearm sights, thus noticably improving potential accuracy.
 
 Reloading the empty magazine is about as slow as reloading the drum of a revolver.
 
