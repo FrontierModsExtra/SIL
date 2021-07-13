@@ -18,6 +18,7 @@ The SIL is at its most useful during hunting, as it allows your character to lau
 
 ## Potential improvements
 
+* volume adjustment: see [`items/parts.json`](items/parts.json)
 * a cheaper 3D-printed version, as seen [here](https://legolini.com/sil_hybrid_bow.php)
 * arrow clips: quicker reloading in the field
 * laser sight, as in the commercial version
